@@ -1,0 +1,15 @@
+Hey, these are the additional information for ATM Emulator.
+
+The folder "atm" is the MySQL database and the folder "ProjectATM" is the java project.
+
+Authentication information:
+As admin-
+Admin id : anurag
+Password : cool
+
+As User-
+User Account No. - HPES1001
+Pin - 1001
+&
+User Account No. - HPES2002
+Pin - 2002
